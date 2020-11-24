@@ -39,5 +39,3 @@ JAVA 이용한 게임 제작 https://github.com/kelly9854/To-avoid-f_game 과제
 IoT project https://github.com/kelly9854/IoT_automatic_spray 과제수행기간 2018.6-2018.8
 
 Hackerton project https://github.com/kelly9854/IoT_smartstreetlamp 과제수행기간 2019.8
-
-android project https://github.com/kelly9854/application_assistant 과제수행기간 2019.7-2019.8
