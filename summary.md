@@ -44,7 +44,7 @@ https://github.com/kelly9854/Data-structure
 https://github.com/kelly9854/To-avoid-f_game
 과제수행기간 2018.1학기
 
-2.IoT project
+2. IoT project
 https://github.com/kelly9854/IoT_automatic_spray
 과제수행기간 2018.6-2018.8
 
